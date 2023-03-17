@@ -1,0 +1,52 @@
+#task3h3{
+
+    color: rgba(0,0,255,0.8);   
+    
+}
+
+#task3pre{
+    color: rgba(0, 0, 0, 0.5);
+}
+.task4{
+    background-color: #DCF5F5;
+  
+    background-image: url(cross.png);  background-repeat: repeat;
+
+   
+}
+.task6{
+    background-color: #DCF5F5;
+}
+#task6div{
+    border-color: darkgrey;
+    border-radius: 8px;
+    border-width: 1px;
+    background-color: white;
+}
+.redborder{
+    border-color: red;
+}
+.task6hr{
+    border-color:#CFDFE4 ;
+}
+.redoutline{
+    outline-color: red;
+}
+#task6div1{
+    border-color: red;
+}
+#task6div2{
+    border-color: blue;
+}
+#task6div3{
+    border-left: red;
+    border-right: red;
+    border-top: red;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+#task6div4{
+    border-color: blue;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
