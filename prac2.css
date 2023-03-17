@@ -1,3 +1,32 @@
+#task2h1{
+    font-family: sans-serif;
+}
+#task2p1{
+    font-family: serif;
+}
+#task2p2{
+    font-family: serif;
+}
+#task2a{
+    color: darkgreen;
+}
+#task2del{
+    color: grey;
+}
+#task2mark{
+    color: darkblue;
+    background-color: pink;
+}
+#task2h2{
+    text-align: left;
+    font-family: sans-serif;
+}
+#task2pre{
+    font-family: monospace;
+}
+
+
+
 #task3h3{
 
     color: rgba(0,0,255,0.8);   
