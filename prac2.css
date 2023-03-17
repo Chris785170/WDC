@@ -44,6 +44,25 @@
 
    
 }
+#task5{
+    background-color: #DCF5F5;
+  
+    background-image: url(cross.png);  background-repeat: repeat;
+}
+#task5div{
+
+    background-color: white;
+}
+.fancy{
+    font-family: cursive;
+}
+.blue{
+    color: blue;
+}
+
+
+
+
 .task6{
     background-color: #DCF5F5;
 }
